@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://rafayfolio.vercel.app/" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:your.email@example.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/abdul-rafay-ar04/" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:rafay.shahidpk@gmail.com">📧 Email</a>
 </p>
 
 ---
