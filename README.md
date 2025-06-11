@@ -78,6 +78,4 @@
 
 ---
 
-<p align="center">
-  Built with ❤️ by Abdul Rafay
-</p>
+
