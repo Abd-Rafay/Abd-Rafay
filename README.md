@@ -13,7 +13,7 @@
 ---
 
 ### 🔭 Current Projects
-- 🚀 **Tinter** — ChatGPT/Gemini-powered web app (React + Tailwind + API integration) *(WIP)*
+- 🚀 **Tintify** — ChatGPT/Gemini-powered web app (React + Tailwind + API integration) *(WIP)*
 - 🎬 **Movie Recommendation App** — Cross-platform movie explorer in Flutter
 - ✅ **Task Management App** — Simple yet elegant task tracker (Flutter)
 
